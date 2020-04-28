@@ -25,9 +25,9 @@ With the given sets of the pattern evolution of Game of Life with different rule
 is used. We can achieve this by wrapping the entire CNN input model in a TimeDistributed layer. [The article](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/) written by Jason Brownlee explains how to implement this kind of model very well.
 ## Reference
 
-* Using a Convolutional Neural Network to Play Conway's Game of Life with Keras, by Kyle Banks
+* Using a Convolutional Neural Network to Play Conway's Game of Life with Keras, by Kyle Banks  
  https://kylewbanks.com/blog/conways-game-of-life-convolutional-neural-network-keras
-* Conway's Game of Life in Python
+* Conway's Game of Life in Python  
  https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/
-* CNN Long Short-Term Memory Networks, by Jason Brownlee
+* CNN Long Short-Term Memory Networks, by Jason Brownlee  
  https://machinelearningmastery.com/cnn-long-short-term-memory-networks/

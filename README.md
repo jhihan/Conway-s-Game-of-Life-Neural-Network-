@@ -1,5 +1,5 @@
 # Conway's Game of Life (Neural Network)
-
+The great mathematician John Horton Conway (26 December 1937 – 11 April 2020) passed away due to Covid-19. He made contributions to many branches of recreational mathematics, most notably the invention of the cellular automaton called the Game of Life. To commemorate him, I tried to build up a deep learning model to learn the pattern evaluation of this game.
 ## Rule of Conway's Game of Life
 The follwing states is copied from wikipedia page of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life):
 

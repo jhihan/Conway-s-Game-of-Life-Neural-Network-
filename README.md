@@ -22,7 +22,7 @@ The goal of this project is using deep learning methods to train the machine to 
 With the given sets of the initial patterns and the next generations,  building a model which can predict the next generations without knowing the rules. The CNN model is used. My implementation is the extension based on [the article](https://kylewbanks.com/blog/conways-game-of-life-convolutional-neural-network-keras) written by Kyle Banks.
 ## Pattern Evaluation Classification
 With the given sets of the pattern evolution of Game of Life with different rules, building a model which can infer the rules. This is essentially a time-series classification problem. Therefore, the CNN–LSTM model with the Timedistributed
-is used. We can achieve this by wrapping the entire CNN input model in a TimeDistributed layer. 
+is used. We can achieve this by wrapping the entire CNN input model in a TimeDistributed layer. [The article](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/) written by Jason Brownlee explains how to implement this kind of model very well.
 ## Reference
 Using a Convolutional Neural Network to Play Conway's Game of Life with Keras
 https://kylewbanks.com/blog/conways-game-of-life-convolutional-neural-network-keras

@@ -26,11 +26,8 @@ is used. We can achieve this by wrapping the entire CNN input model in a TimeDis
 ## Reference
 
 * Using a Convolutional Neural Network to Play Conway's Game of Life with Keras, by Kyle Banks
-
 https://kylewbanks.com/blog/conways-game-of-life-convolutional-neural-network-keras
 * Conway's Game of Life in Python
-
 https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/
 * CNN Long Short-Term Memory Networks, by Jason Brownlee
-
 https://machinelearningmastery.com/cnn-long-short-term-memory-networks/

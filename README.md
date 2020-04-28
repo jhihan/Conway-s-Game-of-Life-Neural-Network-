@@ -24,9 +24,10 @@ With the given sets of the initial patterns and the next generations,  building 
 With the given sets of the pattern evolution of Game of Life with different rules, building a model which can infer the rules. This is essentially a time-series classification problem. Therefore, the CNN–LSTM model with the Timedistributed
 is used. We can achieve this by wrapping the entire CNN input model in a TimeDistributed layer. [The article](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/) written by Jason Brownlee explains how to implement this kind of model very well.
 ## Reference
-Using a Convolutional Neural Network to Play Conway's Game of Life with Keras
+
+* Using a Convolutional Neural Network to Play Conway's Game of Life with Keras
 https://kylewbanks.com/blog/conways-game-of-life-convolutional-neural-network-keras
-Conway's Game of Life in Python
+* Conway's Game of Life in Python
 https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/
-CNN Long Short-Term Memory Networks
+* CNN Long Short-Term Memory Networks
 https://machinelearningmastery.com/cnn-long-short-term-memory-networks/
